@@ -12,8 +12,8 @@ var config = {
   // and branch to get files from.
   github: {
     username: 'junoura',
-    repo: 'junoura.github.io',
-    branch: 'master',
+    repo: 'cms.js-starter',
+    branch: 'gh-pages',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',
