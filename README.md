@@ -1,1 +1,1 @@
-# junoura.github.io
+# cms.js-starter
